@@ -7,3 +7,7 @@ print("winisyunifntr")
 ## jauuasajs
 
 print("watajeilukajrocagtyua")
+
+print("hucamkme")
+
+print("holaaaa world")
